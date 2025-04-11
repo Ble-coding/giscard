@@ -1732,6 +1732,10 @@ textarea {
   font-weight: 400;
 }
 
+.cs_gray_bg_1 .cs_normal{
+  color: white!important;
+}
+
 .cs_medium {
   font-weight: 500;
 }
@@ -1805,7 +1809,11 @@ textarea {
 }
 
 .cs_gray_bg_1 {
-  background-color: #F2FCF7;
+  background-color: #050404;
+}
+
+.cs_gray_bg_1 .mb-0{
+  color: white!important;
 }
 
 .cs_gray_bg_2 {
@@ -4565,10 +4573,10 @@ hr {
   -webkit-line-clamp: 1;
 }
 .cs_iconbox.cs_style_1.cs_type_1 .cs_bg_1 {
-  background-color: #6DE8F2;
+  background-color: #bc742c;
 }
 .cs_iconbox.cs_style_1.cs_type_1 .cs_bg_2 {
-  background-color: #6DF2A2;
+  background-color: #d5b38b;
 }
 .cs_iconbox.cs_style_1:hover img {
   -webkit-transform: rotatey(360deg);
@@ -4619,22 +4627,22 @@ hr {
 .cs_iconbox.cs_style_2.cs_type_1 .cs_iconbox_icon {
   width: 70px;
   height: 70px;
-  background-color: #C3AEFF;
+  background-color: #d5b38b;
 }
 .cs_iconbox.cs_style_2.cs_type_1 .cs_iconbox_icon::before {
   display: none;
 }
 .cs_iconbox.cs_style_2.cs_type_1 .cs_iconbox_icon.cs_bg_2 {
-  background-color: #6DF2A2;
+  background-color: #fad4a2;
 }
 .cs_iconbox.cs_style_2.cs_type_1 .cs_iconbox_icon.cs_bg_3 {
-  background-color: #6DF2D0;
+  background-color: #f8f3e8;
 }
 .cs_iconbox.cs_style_2.cs_type_1 .cs_iconbox_icon.cs_bg_4 {
-  background-color: #6DE8F2;
+  background-color: #050404;
 }
 .cs_iconbox.cs_style_2.cs_type_1 .cs_iconbox_icon.cs_bg_5 {
-  background-color: #9BF26D;
+  background-color: #bc7c34;
 }
 .cs_iconbox.cs_style_2.cs_type_2 {
   padding: 0;
@@ -4691,16 +4699,16 @@ hr {
   -webkit-box-flex: 0;
       -ms-flex: none;
           flex: none;
-  background-color: #6DF2D0;
-  color: #008F6B;
+  background-color: #faa44d;
+  color: #737473;
 }
 .cs_iconbox.cs_style_4:nth-child(2) .cs_iconbox_icon {
-  background-color: #6DE8F2;
+  background-color: #050404;
   color: var(--purple-color);
 }
 .cs_iconbox.cs_style_4:nth-child(3) .cs_iconbox_icon {
-  background-color: #6DF2A2;
-  color: #00A843;
+  background-color: #8c653c;
+  color: #fad4a2;
 }
 @media (max-width: 400px) {
   .cs_iconbox.cs_style_4 {
@@ -5459,19 +5467,19 @@ Pricing controller
   background-color: var(--accent-color);
 }
 .cs_features_wrapper.cs_style_1 .cs_iconbox.cs_style_1:nth-child(2) .cs_iconbox_icon {
-  background-color: #C3AEFF;
+  background-color: #bc7c34;
 }
 .cs_features_wrapper.cs_style_1 .cs_iconbox.cs_style_1:nth-child(3) .cs_iconbox_icon {
-  background-color: #6DF2A2;
+  background-color: #faa44d;
 }
 .cs_features_wrapper.cs_style_1 .cs_iconbox.cs_style_1:nth-child(4) .cs_iconbox_icon {
-  background-color: #6DF2D0;
+  background-color: #d5b38b;
 }
 .cs_features_wrapper.cs_style_1 .cs_iconbox.cs_style_1:nth-child(5) .cs_iconbox_icon {
-  background-color: #6DE8F2;
+  background-color: #050404;
 }
 .cs_features_wrapper.cs_style_1 .cs_iconbox.cs_style_1:nth-child(6) .cs_iconbox_icon {
-  background-color: #9BF26D;
+  background-color: #737473;
 }
 @media (min-width: 1200px) {
   .cs_features_wrapper.cs_style_1 .cs_iconbox.cs_style_1:nth-child(3), .cs_features_wrapper.cs_style_1 .cs_iconbox.cs_style_1:nth-child(6) {

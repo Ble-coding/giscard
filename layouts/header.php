@@ -5,7 +5,7 @@
           <div class="cs_main_header_in">
             <div class="cs_main_header_left">
               <a class="cs_site_branding" href="/" aria-label="Groupe Giscard kacou">
-              <img src="/assets/img/logo.svg" alt="Logo">
+              <img src="/assets/img/logo.png" alt="Logo">
               </a>
             </div>
             <div class="cs_main_header_center">

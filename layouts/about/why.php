@@ -8,7 +8,7 @@
               <img src="assets/img/feature_5.png" alt="Feature image">
               <div class="cs_blob_1 position-absolute"></div>
               <div class="cs_feature_shape_3 position-absolute">
-                <img src="assets/img/hero_shape_1.svg" alt="Shape image">
+                <!-- <img src="assets/img/hero_shape_1.svg" alt="Shape image"> -->
               </div>
               <!-- <div class="cs_text_check_wrap position-absolute">
                 <div class="cs_iconbox cs_style_3 cs_purple_bg cs_radius_15">
@@ -55,7 +55,7 @@
           <div class="col-lg-6 order-lg-1">
             <div class="cs_card_content">
               <div class="cs_section_heading cs_style_1 cs_mb_51">
-                <p class="cs_fs_16 cs_semibold cs_mb_11">POURQUOI CHOISIR?</p>
+                <p class="cs_fs_16 cs_semibold cs_mb_11">POURQUOI NOUS CHOISIR?</p>
                 <h2 class="cs_section_title cs_fs_50 mb-0 wow fadeInDown">Pourquoi choisir  <br> Groupe Giscard Kacou?</h2>
               </div>
               <div class="cs_iconbox_wrapper">

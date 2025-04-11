@@ -24,7 +24,7 @@
                 <div class="cs_iconbox_info">
                   <h3 class="cs_iconbox_title cs_fs_29 cs_normal cs_white_color">Sécurité Électronique</h3>
                   <p class="cs_iconbox_subtitle cs_fs_18 cs_border_color cs_mb_17">Protégez vos biens avec nos solutions  <br>de vidéosurveillance, alarmes et contrôles d'accès.</p>
-                  <a href="features.html" aria-label="Click to visit features page" class="cs_iconbox_btn cs_semibold cs_white_color">
+                  <a href="/service" aria-label="Click to visit features page" class="cs_iconbox_btn cs_semibold cs_white_color">
                   <span>Voir plus</span>
                   <span class="cs_btn_icon cs_center"><i class="fa-solid fa-arrow-right"></i></span>
                   </a>
@@ -37,9 +37,9 @@
                 <img src="assets/img/icons/stats.svg" alt="Stats icon">
                 </span>
                 <div class="cs_iconbox_info">
-                  <h3 class="cs_iconbox_title cs_fs_29 cs_normal cs_white_color">Communication Graphique</h3>
+                  <h3 class="cs_iconbox_title cs_fs_29 cs_normal cs_white_color">Com Graphique</h3>
                   <p class="cs_iconbox_subtitle cs_fs_18 cs_border_color cs_mb_17">Donnez vie à votre image avec notre <br>expertise  en design, impression et production audiovisuelle.</p>
-                  <a href="features.html" aria-label="Click to visit features page" class="cs_iconbox_btn cs_semibold cs_white_color">
+                  <a href="/service" aria-label="Click to visit features page" class="cs_iconbox_btn cs_semibold cs_white_color">
                   <span>Voir plus</span>
                   <span class="cs_btn_icon cs_center"><i class="fa-solid fa-arrow-right"></i></span>
                   </a>
@@ -54,7 +54,7 @@
                 <div class="cs_iconbox_info">
                   <h3 class="cs_iconbox_title cs_fs_29 cs_normal cs_white_color">Solutions Informatiques</h3>
                   <p class="cs_iconbox_subtitle cs_fs_18 cs_border_color cs_mb_17">Optimisez votre infrastructure avec <br> notre expertise en maintenance, réseaux et développement</p>
-                  <a href="features.html" aria-label="Click to visit features page" class="cs_iconbox_btn cs_semibold cs_white_color">
+                  <a href="/service" aria-label="Click to visit features page" class="cs_iconbox_btn cs_semibold cs_white_color">
                   <span>Voir plus</span>
                   <span class="cs_btn_icon cs_center"><i class="fa-solid fa-arrow-right"></i></span>
                   </a>
@@ -69,7 +69,7 @@
                 <div class="cs_iconbox_info">
                   <h3 class="cs_iconbox_title cs_fs_29 cs_normal cs_white_color">Contact Management</h3>
                   <p class="cs_iconbox_subtitle cs_fs_18 cs_border_color cs_mb_17">Store and organize customer <br> information in a centralized, easily <br> accessible database.</p>
-                  <a href="features.html" aria-label="Click to visit features page" class="cs_iconbox_btn cs_semibold cs_white_color">
+                  <a href="/service" aria-label="Click to visit features page" class="cs_iconbox_btn cs_semibold cs_white_color">
                   <span>Learn More</span>
                   <span class="cs_btn_icon cs_center"><i class="fa-solid fa-arrow-right"></i></span>
                   </a>

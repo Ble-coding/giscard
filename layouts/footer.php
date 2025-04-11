@@ -6,7 +6,7 @@
             <div class="col-xl-5 col-lg-4 col-md-7">
               <div class="cs_footer_widget cs_text_widget">
                 <div class="cs_brand cs_mb_10 wow fadeInUp">
-                  <img src="/assets/img/logo.svg" alt="Logo">
+                  <img src="/assets/img/logo.png" alt="Logo">
                 </div>
                 <p class="mb-0">Spécialisé en sécurité électronique, communication graphique et solutions informatiques, le Groupe Giscard Kacou vous accompagne dans vos projets avec expertise, réactivité et professionnalisme, en Côte d'Ivoire et en France.</p>
               </div>

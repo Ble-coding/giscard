@@ -14,7 +14,7 @@
               <i class="fa-solid fa-play"></i>
               </span>
               <div class="cs_feature_shape_3 position-absolute">
-                <img src="assets/img/hero_shape_1.svg" alt="Shape image">
+                <!-- <img src="assets/img/hero_shape_1.svg" alt="Shape image"> -->
               </div>
             </a>
           </div>

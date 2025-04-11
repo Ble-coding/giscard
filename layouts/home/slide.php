@@ -7,7 +7,7 @@
               <div class="cs_hero_thumbnail cs_radius_15 position-relative wow fadeInRight">
                 <img src="assets/img/hero_img_4.jpg" alt="Hero Image">
                 <div class="cs_hero_shape_vector position-absolute">
-                  <img src="assets/img/quarter-circle.svg" alt="Vector Shape">
+                  <img src="assets/img/quarter-circle.png" alt="Vector Shape">
                 </div>
                 <div class="cs_volume_report cs_white_bg cs_radius_15 position-absolute">
                   <!-- <img src="assets/img/volume.jpg" alt="Volume report chart"> -->
@@ -21,8 +21,8 @@
               <div class="cs_hero_text position-relative z-2">
                 <h1 class="cs_hero_title cs_fs_68 wow fadeInDown">Boostez la sérénité, la sécurité  <span class="position-relative">
                 et l’impact visuel
-                  <img src="assets/img/vector.svg" alt="Vector line" class="cs_line_1 position-absolute">
-                  <img src="assets/img/vector-2.svg" alt="Vector line" class="cs_line_2 position-absolute">
+                  <img src="assets/img/vector-black.png" alt="Vector line" class="cs_line_1 position-absolute">
+                  <img src="assets/img/vector-orange.png" alt="Vector line" class="cs_line_2 position-absolute">
                   </span>
                 </h1>
                 <p class="cs_hero_subtitle"> Avec le <strong>Groupe Giscard Kacou </strong>renforcez votre sécurité, optimisez vos outils informatiques et valorisez votre image avec nos solutions intégrées et sur mesure.

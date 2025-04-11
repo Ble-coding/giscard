@@ -15,7 +15,7 @@
               </span>
               <div class="cs_iconbox_info">
                 <h3 class="cs_fs_21 cs_medium cs_mb_11">Sécurité Électronique</h3>
-                <p class="mb-0">Installation, maintenance et dépannage de systèmes d'alarme, vidéosurveillance, interphonie et contrôle d’accès.</p>
+                <p class="mb-0">Fourniture, installation et dépannage de systèmes d'alarme, vidéosurveillance, interphonie et contrôle d’accès.</p>
               </div>
             </div>
           </div>

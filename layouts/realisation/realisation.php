@@ -14,7 +14,7 @@
             <div class="cs_iconbox_info">
               <h3 class="cs_fs_29 cs_white_color cs_mb_19 cs_normal">Sécurité Électronique</h3>
               <p class="cs_border_color cs_mb_17">Alarmes incendie & intrusion, détecteurs, caméras dômes, enregistreurs, lecteurs de badge, claviers...</p>
-              <a href="features.html" aria-label="Click to visit features page" class="cs_iconbox_btn cs_fs_16 cs_semibold cs_white_color">
+              <a href="/gallery" aria-label="Click to visit features page" class="cs_iconbox_btn cs_fs_16 cs_semibold cs_white_color">
               <span>Voir plus</span>
               <span class="cs_btn_icon cs_center"><i class="fa-solid fa-arrow-right"></i></span>
               </a>
@@ -27,7 +27,7 @@
             <div class="cs_iconbox_info">
               <h3 class="cs_fs_29 cs_white_color cs_mb_19 cs_normal">Communication Graphique</h3>
               <p class="cs_border_color cs_mb_17">Édition, création publicitaire, logos, gadgets, sérigraphie, production audiovisuelle, webmastering...</p>
-              <a href="features.html" aria-label="Click to visit features page" class="cs_iconbox_btn cs_fs_16 cs_semibold cs_white_color">
+              <a href="/gallery" aria-label="Click to visit features page" class="cs_iconbox_btn cs_fs_16 cs_semibold cs_white_color">
               <span>Voir plus</span>
               <span class="cs_btn_icon cs_center"><i class="fa-solid fa-arrow-right"></i></span>
               </a>
@@ -40,7 +40,7 @@
             <div class="cs_iconbox_info">
               <h3 class="cs_fs_29 cs_white_color cs_mb_19 cs_normal">Solutions Informatiques</h3>
               <p class="cs_border_color cs_mb_17">Vente de consommables, maintenance, sécurité réseau, développement d’applications sur mesure...</p>
-              <a href="features.html" aria-label="Click to visit features page" class="cs_iconbox_btn cs_fs_16 cs_semibold cs_white_color">
+              <a href="/gallery" aria-label="Click to visit features page" class="cs_iconbox_btn cs_fs_16 cs_semibold cs_white_color">
               <span>Voir plus</span>
               <span class="cs_btn_icon cs_center"><i class="fa-solid fa-arrow-right"></i></span>
               </a>
