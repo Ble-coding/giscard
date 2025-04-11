@@ -3971,7 +3971,9 @@ hr {
   height: 203px;
   -webkit-transform: rotate(-21deg);
           transform: rotate(-21deg);
-  background-color: #fad4a2;
+  background-color:  #faa44d;
+  /* #fad4a2; */
+ 
   -webkit-filter: blur(125px);
           filter: blur(125px);
   left: -80px;

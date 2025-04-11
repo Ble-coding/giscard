@@ -4,7 +4,7 @@
       <div class="container">
         <div class="text-center ">
           <h2 class="cs_fs_50 cs_mb_15 wow fadeInDown">Contactez le Groupe Giscard Kacou</h2>
-          <p class="mb-0 wow fadeInUp"> Une question ? Besoin d’un devis ? N’hésitez pas à nous écrire.<br>
+          <p class="mb-0 wow fadeInUp"> Une question ? Besoin d’un devis ? Besoin d’un audit ? N’hésitez pas à nous contacter.<br>
                     Notre équipe se fera un plaisir de vous répondre rapidement.
             </p>
         </div>
@@ -26,7 +26,7 @@
               </span>
               <div class="cs_iconbox_info">
                 <h3 class="cs_fs_29 cs_normal cs_mb_15">Côte d'Ivoire</h3>
-                <p class="mb-0">Contact <a href="tel:+2250102028429" aria-label="Call us link" class="cs_accent_color">(+225-0102-028-429)</a>, disponible du Lundi au Vendredi, de 9h à 17h.</p>
+                <p class="mb-0"> <a href="tel:+2250102028429" aria-label="Call us link" class="cs_accent_color">(+225-0102-028-429)</a>, disponible du Lundi au Vendredi, de 9h à 17h.</p>
               </div>
             </div>
           </div>
@@ -87,7 +87,7 @@
               </span>
               <div class="cs_iconbox_info">
                 <h3 class="cs_fs_29 cs_normal cs_mb_15">France</h3>
-                <p class="mb-0">Contact <a href="tel:+33652937797" aria-label="Call us link" class="cs_accent_color">(+33-652-937-797)</a>, disponible du Lundi au Vendredi, de 9h à 17h.</p>
+                <p class="mb-0"> <a href="tel:+33652937797" aria-label="Call us link" class="cs_accent_color">(+33-652-937-797)</a>, disponible du Lundi au Vendredi, de 9h à 17h.</p>
               </div>
             </div>
           </div>
