@@ -5,7 +5,7 @@
           <div class="row align-items-center cs_gap_y_40">
             <div class="col-lg-5 order-lg-2">
               <div class="cs_hero_thumbnail cs_radius_15 position-relative wow fadeInRight">
-                <img src="assets/img/hero_img_4.jpg" alt="Hero Image">
+                <img src="assets/img/hero_img_4.png" alt="Hero Image">
                 <div class="cs_hero_shape_vector position-absolute">
                   <img src="assets/img/quarter-circle.png" alt="Vector Shape">
                 </div>

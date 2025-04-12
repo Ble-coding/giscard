@@ -158,7 +158,7 @@
   --body-color: #6C6C6C;
   --purple-color: #bc742c;
   --accent-color: #faa44d;
-  --border-color: #8c653c;
+  --border-color: #131211;
   --gray-color: #fad4a2;
   --gray2-color: #737473;
   --heading-font: "Outfit", sans-serif;
@@ -3198,6 +3198,9 @@ hr {
     height: inherit;
     position: relative;
   }
+
+
+  
   .cs_nav .cs_nav_list > li:last-child {
     margin-right: 0;
   }
@@ -3212,6 +3215,7 @@ hr {
         -ms-flex-align: center;
             align-items: center;
   }
+  
   .cs_nav .cs_nav_list > li > a::before {
     content: "";
     position: absolute;
@@ -3223,6 +3227,19 @@ hr {
     -webkit-transition: all 0.3s ease;
     transition: all 0.3s ease;
   }
+
+  .cs_nav .cs_nav_list > li > a.active::after {
+    content: "";
+    position: absolute;
+    top: 61%;
+    left: 0;
+    height: 3px;
+    width: 100%;
+    background-color: var(--accent-color);
+    z-index: 1;
+  }
+  
+  
   .cs_nav .cs_nav_list > li > a:hover {
     color: var(--heading-color);
   }
@@ -5102,7 +5119,11 @@ Pricing controller
   width: 536px;
   height: 100%;
   padding: 50px;
-  background-color: #EDF4F3;
+  background-color: #fad4a2;
+}
+
+.cs_testimonial p{
+  color: #050404!important;
 }
 .cs_testimonial.cs_style_1 blockquote {
   font-size: 18px;
@@ -5117,7 +5138,7 @@ Pricing controller
 .cs_testimonial.cs_style_1 .cs_quote_icon {
   width: 266px;
   height: 266px;
-  background-image: url(../img/quote-right-2.svg);
+  background-image: url(../img/quote-right-2-white.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
@@ -5138,11 +5159,12 @@ Pricing controller
 }
 
 .slick-slide:nth-child(even) .cs_testimonial.cs_style_1 {
-  background-color: #ECEBFD;
+  background-color: #faa44d;
 }
 .slick-slide:nth-child(even) .cs_testimonial.cs_style_1 .cs_quote_icon {
-  background-image: url(../img/quote-right.svg);
+  background-image: url(../img/quote-right-2-white.png);
 }
+
 
 /*-----------------------------------------
  Avatar

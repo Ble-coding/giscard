@@ -1,3 +1,4 @@
+
    <!-- Start Contact Hero Section -->
     <section>
       <div class="cs_height_58 cs_height_lg_58"></div>
@@ -8,6 +9,14 @@
                     Notre équipe se fera un plaisir de vous répondre rapidement.
             </p>
         </div>
+
+        <div class="container">
+        <div class="row">
+          <div class="col-lg-10 offset-lg-1">
+          
+          <!-- <img src="assets/img/contact.png" alt="contact"> -->
+          </div></div></div>
+
         <div class="cs_height_97 cs_height_lg_50"></div>
         <div class="row cs_gap_y_24">
           <div class="col-lg-3 wow fadeInLeft">

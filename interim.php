@@ -1,12 +1,12 @@
 
 <?php
 $pageTitle = 'GROUPE GISCARD KACOU';
-$pageDescription = 'Bâtir un monde plus sûr, plus connecté et plus visible — grâce à la technologie, à la créativité et à la passion.';
+$pageDescription = 'Une solution humaine pour accompagner vos projets techniques, logistiques et de communication';
 ob_start();
 ?>
 
 <!-- Section Slide (Bannière d'accueil) -->
-<?php require __DIR__ . '/layouts/realisation/realisation.php'; ?>
+<?php require __DIR__ . '/layouts/interim/interim.php'; ?>
 <!--  -->
 
 <?php

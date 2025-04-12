@@ -6,7 +6,7 @@
             <div class="col-xl-5 col-lg-4 col-md-7">
               <div class="cs_footer_widget cs_text_widget">
                 <div class="cs_brand cs_mb_10 wow fadeInUp">
-                  <img src="/assets/img/logo.png" alt="Logo">
+                  <img src="/assets/img/logo_agrandi.png" alt="Logo">
                 </div>
                 <p class="mb-0">Spécialisé en sécurité électronique, communication graphique et solutions informatiques, le Groupe Giscard Kacou vous accompagne dans vos projets avec expertise, réactivité et professionnalisme, en Côte d'Ivoire et en France.</p>
               </div>
@@ -16,10 +16,10 @@
                 <h3 class="cs_footer_widget_title cs_fs_21 cs_normal cs_mb_21">Liens rapides</h3>
                 <ul class="cs_footer_medu cs_mp_0">
                   <li><a href="/" aria-label="Home page link">Accueil</a></li>
-                  <li><a href="/about" aria-label="Features page link">À propos</a></li>
-                  <li><a href="/service" aria-label="Pricing page link">Nos services</a></li>
-                  <li><a href="/product" aria-label="Blog page link">Produits/Réalisations</a></li>
-                  <!-- <li><a href="/contact" aria-label="Contact page link">Contact</a></li> -->
+                  <li><a href="/about" aria-label="About page link">À propos</a></li>
+                  <li><a href="/service" aria-label="Service page link">Nos services</a></li>
+                  <li><a href="/formation" aria-label="Formation page link">Formations</a></li>
+                  <li><a href="/interim" aria-label="Interim page link">Intérim</a></li>
                 </ul>
               </div>
             </div>

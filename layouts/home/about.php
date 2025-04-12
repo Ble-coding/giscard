@@ -65,7 +65,7 @@
           </div>
           <div class="col-xl-5 col-lg-5 order-lg-1">
           <div class="cs_card_thumbnail cs_radius_15 position-relative wow fadeInRight">
-              <img src="assets/img/feature_8.jpg" alt="Feature image">
+              <img src="assets/img/feature_8.png" alt="Feature image">
               <div class="cs_illustration cs_radius_10 position-absolute">
                 <!-- <img src="assets/img/Illustration_4.png" alt="Analytics chart image"> -->
               </div>

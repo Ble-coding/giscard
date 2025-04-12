@@ -15,9 +15,10 @@ $routes = [
     '' => 'home.php', // Route pour la page d'accueil
     'about' => 'about.php',
     'service' => 'service.php',
-    'product' => 'realisation.php',
+    'formation' => 'formation.php',
     'contact' => 'contact.php',
     'gallery' => 'gallery.php',
+    'interim' => 'interim.php',
     'mail-error' => 'mail/mail-error.php',
     'mail-success' => 'mail/mail-success.php'
 ];

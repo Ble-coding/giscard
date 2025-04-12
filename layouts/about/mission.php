@@ -5,7 +5,7 @@
         <div class="cs_card cs_style_1 cs_type_7 row cs_gap_y_40 align-items-xl-center">
           <div class="col-lg-6">
             <div class="cs_card_thumbnail cs_radius_10 wow fadeInLeft">
-              <img src="assets/img/feature_10.jpg" alt="Feature image">
+              <img src="assets/img/feature_10.png" alt="Feature image">
             </div>
           </div>
           <div class="col-lg-6">

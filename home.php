@@ -9,7 +9,8 @@ ob_start();
 <?php require __DIR__ . '/layouts/home/slide.php'; ?>
 <?php require __DIR__ . '/layouts/home/about.php'; ?>
 <?php require __DIR__ . '/layouts/home/service.php'; ?>
-<?php require __DIR__ . '/layouts/home/realisation.php'; ?>
+<?php require __DIR__ . '/layouts/home/formation.php'; ?>
+<?php require __DIR__ . '/layouts/home/temoignage.php'; ?>
 
 <?php
 $content = ob_get_clean(); // Capture et stocke le contenu
