@@ -20,7 +20,7 @@ $currentRoute = trim(parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH), '/');
                 <li><a href="/about" class="<?= $currentRoute === 'about' ? 'active' : '' ?>">À propos</a></li>
                 <li><a href="/service" class="<?= $currentRoute === 'service' ? 'active' : '' ?>">Nos services</a></li>
                 <li><a href="/formation" class="<?= $currentRoute === 'formation' ? 'active' : '' ?>">Formations</a></li>
-                <li><a href="/interim" class="<?= $currentRoute === 'interim' ? 'active' : '' ?>">Service d’intérim </a></li>
+                <li><a href="/interim" class="<?= $currentRoute === 'interim' ? 'active' : '' ?>">Intérim </a></li>
                 <li><a href="/gallery" class="<?= $currentRoute === 'gallery' ? 'active' : '' ?>">Galerie</a></li>
                 <li><a href="/contact" class="<?= $currentRoute === 'contact' ? 'active' : '' ?>">Contact</a></li>
               </ul>
