@@ -3,7 +3,7 @@
   <div class="cs_height_130 cs_height_lg_80"></div>
   <div class="container">
     <div class="cs_section_heading cs_style_1 cs_mb_60 text-center">
-      <h2 class="cs_section_title cs_fs_50 mb-0 wow fadeInDown">Foire aux questions <br> sur le Groupe GK</h2>
+      <h2 class="cs_section_title cs_fs_50 mb-0 wow fadeInDown">Foire aux questions <br> sur le Groupe Kacou</h2>
     </div>
     <div class="row cs_gap_y_24">
       <div class="col-xl-6 wow fadeInLeft">
@@ -36,7 +36,7 @@
         </div>
         <div class="cs_accordian cs_radius_15 cs_white_bg cs_type_2 position-relative">
           <div class="cs_accordian_head cs_fs_21 cs_heading_color">
-            Le Groupe GK intervient-il en dehors de la sécurité ?
+            Le Groupe KACOU intervient-il en dehors de la sécurité ?
             <span class="cs_accordian_toggle position-absolute"></span>
           </div>
           <div class="cs_accordian_body">

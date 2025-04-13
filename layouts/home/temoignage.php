@@ -14,7 +14,7 @@
               <div class="cs_testimonial cs_style_1 cs_radius_15 position-relative">
                 <div class="cs_avatar cs_style_1 cs_mb_41">
                   <span class="cs_avatar_icon cs_center cs_radius_100">
-                  <img src="assets/img/avatar-2.jpg" alt="Avatar">
+                  <img src="assets/img/avatar-4.png" alt="Avatar">
                   </span>
                   <div class="cs_avatar_info">
                   <h3 class="cs_fs_21 fw-normal">Issiaka C.</h3>
@@ -33,7 +33,7 @@
               <div class="cs_testimonial cs_style_1 cs_radius_15 position-relative">
                 <div class="cs_avatar cs_style_1 cs_mb_41">
                   <span class="cs_avatar_icon cs_center cs_radius_100">
-                  <img src="assets/img/avatar-2.jpg" alt="Avatar">
+                  <img src="assets/img/avatar-4.png" alt="Avatar">
                   </span>
                   <div class="cs_avatar_info">
                     <h3 class="cs_fs_21 fw-normal">M. Koffi T.</h3>
@@ -52,7 +52,7 @@
               <div class="cs_testimonial cs_style_1 cs_radius_15 position-relative">
                 <div class="cs_avatar cs_style_1 cs_mb_41">
                   <span class="cs_avatar_icon cs_center cs_radius_100">
-                  <img src="assets/img/avatar-3.jpg" alt="Avatar">
+                  <img src="assets/img/avatar-4.png" alt="Avatar">
                   </span>
                   <div class="cs_avatar_info">
                   <h3 class="cs_fs_21 fw-normal">Nadine E.</h3>
@@ -72,7 +72,7 @@
               <div class="cs_testimonial cs_style_1 cs_radius_15 position-relative">
                 <div class="cs_avatar cs_style_1 cs_mb_41">
                   <span class="cs_avatar_icon cs_center cs_radius_100">
-                  <img src="assets/img/avatar-4.jpg" alt="Avatar">
+                  <img src="assets/img/avatar-4.png" alt="Avatar">
                   </span>
                   <div class="cs_avatar_info">
                   <h3 class="cs_fs_21 fw-normal">Jean-Marc K.</h3>
@@ -91,7 +91,7 @@
               <div class="cs_testimonial cs_style_1 cs_radius_15 position-relative">
                 <div class="cs_avatar cs_style_1 cs_mb_41">
                   <span class="cs_avatar_icon cs_center cs_radius_100">
-                  <img src="assets/img/avatar-4.jpg" alt="Avatar">
+                  <img src="assets/img/avatar-4.png" alt="Avatar">
                   </span>
                   <div class="cs_avatar_info">
                   <h3 class="cs_fs_21 fw-normal">Yves D.</h3>
@@ -110,7 +110,7 @@
               <div class="cs_testimonial cs_style_1 cs_radius_15 position-relative">
                 <div class="cs_avatar cs_style_1 cs_mb_41">
                   <span class="cs_avatar_icon cs_center cs_radius_100">
-                  <img src="assets/img/avatar-4.jpg" alt="Avatar">
+                  <img src="assets/img/avatar-4.png" alt="Avatar">
                   </span>
                   <div class="cs_avatar_info">
                   <h3 class="cs_fs_21 fw-normal">Mme Brou R.</h3>
@@ -129,7 +129,7 @@
               <div class="cs_testimonial cs_style_1 cs_radius_15 position-relative">
                 <div class="cs_avatar cs_style_1 cs_mb_41">
                   <span class="cs_avatar_icon cs_center cs_radius_100">
-                  <img src="assets/img/avatar-4.jpg" alt="Avatar">
+                  <img src="assets/img/avatar-4.png" alt="Avatar">
                   </span>
                   <div class="cs_avatar_info">
                   <h3 class="cs_fs_21 fw-normal">M. Bacou L.</h3>
@@ -148,7 +148,7 @@
               <div class="cs_testimonial cs_style_1 cs_radius_15 position-relative">
                 <div class="cs_avatar cs_style_1 cs_mb_41">
                   <span class="cs_avatar_icon cs_center cs_radius_100">
-                  <img src="assets/img/avatar-4.jpg" alt="Avatar">
+                  <img src="assets/img/avatar-4.png" alt="Avatar">
                   </span>
                   <div class="cs_avatar_info">
                   <h3 class="cs_fs_21 fw-normal">Fatou K</h3>
@@ -167,7 +167,7 @@
               <div class="cs_testimonial cs_style_1 cs_radius_15 position-relative">
                 <div class="cs_avatar cs_style_1 cs_mb_41">
                   <span class="cs_avatar_icon cs_center cs_radius_100">
-                  <img src="assets/img/avatar-4.jpg" alt="Avatar">
+                  <img src="assets/img/avatar-4.png" alt="Avatar">
                   </span>
                   <div class="cs_avatar_info">
                   <h3 class="cs_fs_21 fw-normal">Fatou K</h3>
@@ -186,7 +186,7 @@
               <div class="cs_testimonial cs_style_1 cs_radius_15 position-relative">
                 <div class="cs_avatar cs_style_1 cs_mb_41">
                   <span class="cs_avatar_icon cs_center cs_radius_100">
-                  <img src="assets/img/avatar-4.jpg" alt="Avatar">
+                  <img src="assets/img/avatar-4.png" alt="Avatar">
                   </span>
                   <div class="cs_avatar_info">
                   <h3 class="cs_fs_21 fw-normal">Serge A</h3>
@@ -205,7 +205,7 @@
               <div class="cs_testimonial cs_style_1 cs_radius_15 position-relative">
                 <div class="cs_avatar cs_style_1 cs_mb_41">
                   <span class="cs_avatar_icon cs_center cs_radius_100">
-                  <img src="assets/img/avatar-4.jpg" alt="Avatar">
+                  <img src="assets/img/avatar-4.png" alt="Avatar">
                   </span>
                   <div class="cs_avatar_info">
                   <h3 class="cs_fs_21 fw-normal">Mme Koné Mariam</h3>
@@ -224,7 +224,7 @@
               <div class="cs_testimonial cs_style_1 cs_radius_15 position-relative">
                 <div class="cs_avatar cs_style_1 cs_mb_41">
                   <span class="cs_avatar_icon cs_center cs_radius_100">
-                  <img src="assets/img/avatar-4.jpg" alt="Avatar">
+                  <img src="assets/img/avatar-4.png" alt="Avatar">
                   </span>
                   <div class="cs_avatar_info">
                   <h3 class="cs_fs_21 fw-normal">Dr. Yao Patrice </h3>

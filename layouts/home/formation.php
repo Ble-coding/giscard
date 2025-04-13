@@ -44,6 +44,7 @@
             </div>
           </div>
 
+
           <!-- Cibles -->
           <div class="cs_iconbox cs_style_6 wow fadeInLeft" data-wow-delay="600ms">
             <span class="cs_iconbox_icon cs_center cs_purple_bg cs_white_color cs_radius_100">
@@ -59,6 +60,10 @@
           </div>
 
         </div>
+          <div class="cs_height_80 cs_height_lg_80"></div>
+        <a href="/formation" class="cs_btn cs_style_1 cs_purple_bg cs_accent_hover cs_fs_16 cs_white_color cs_semibold wow fadeInUp" style="display: inline-block; margin: 0 auto;">
+          <span>Savoir plus</span>
+        </a>
       </div>
 
       <!-- Illustration -->
@@ -67,11 +72,7 @@
           <img src="assets/img/formation.png" alt="Formation GK GROUPE">
           <div class="cs_thumbnail_before cs_radius_100 position-absolute"></div>
         </div>
-        <div class="mt-3">
-          <a href="/formation" class="cs_btn cs_style_1 cs_purple_bg cs_accent_hover cs_fs_16 cs_white_color cs_semibold wow fadeInUp">
-            <span>Savoir plus</span>
-          </a>
-        </div>
+
       </div>
 
     </div>
