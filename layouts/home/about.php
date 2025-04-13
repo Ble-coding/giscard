@@ -61,6 +61,7 @@
               <a href="/about" aria-label="Click to learn more" class="cs_btn cs_style_1 cs_purple_bg cs_accent_hover cs_fs_16 cs_white_color cs_semibold wow fadeInUp">
               <span>A propos de nous</span>
               </a>
+              <div class="cs_height_140 cs_height_lg_80"></div>
             </div>
           </div>
           <div class="col-xl-5 col-lg-5 order-lg-1">
