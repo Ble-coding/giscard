@@ -2421,6 +2421,9 @@ hr {
   top: 2px;
   left: 0;
 }
+.cs_list .interim {
+  list-style: none;
+}
 
 .cs_list.cs_style_2 {
   display: -webkit-box;
