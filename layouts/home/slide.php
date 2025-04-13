@@ -25,7 +25,7 @@
                   <img src="assets/img/vector-orange.png" alt="Vector line" class="cs_line_2 position-absolute">
                   </span>
                 </h1>
-                <p class="cs_hero_subtitle"> Avec le <strong>Groupe Giscard Kacou </strong>renforcez votre sécurité, optimisez vos outils informatiques et valorisez votre image avec nos solutions intégrées et sur mesure.
+                <p class="cs_hero_subtitle"> Avec le <strong>Groupe KACOU </strong>renforcez votre sécurité, optimisez vos outils informatiques et valorisez votre image avec nos solutions intégrées et sur mesure.
                 </p>
                 <div class="cs_btn_group position-relative">
                   <a href="/service" aria-label="Sign in button" class="cs_btn cs_style_1 cs_purple_bg cs_white_color wow fadeInLeft"><span>Découvrir nos services</span></a>

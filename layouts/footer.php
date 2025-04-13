@@ -8,7 +8,7 @@
                 <div class="cs_brand cs_mb_10 wow fadeInUp">
                   <img src="/assets/img/logo_agrandi.png" alt="Logo">
                 </div>
-                <p class="mb-0">Spécialisé en sécurité électronique, communication graphique et solutions informatiques, le Groupe Giscard Kacou vous accompagne dans vos projets avec expertise, réactivité et professionnalisme, en Côte d'Ivoire et en France.</p>
+                <p class="mb-0">Spécialisé en sécurité électronique, communication graphique et solutions informatiques, le Groupe KACOU vous accompagne dans vos projets avec expertise, réactivité et professionnalisme, en Côte d'Ivoire et en France.</p>
               </div>
             </div>
             <div class="col-xl-2 col-lg-2 col-md-4 offset-lg-0 offset-md-1">
@@ -73,7 +73,7 @@
             <span></span>
             </a>
           </div>
-          <div class="cs_footer_text cs_heading_color">Copyright &copy; <?php echo date('Y'); ?> Groupe Giscard Kacou - Tous droits réservés</div>
+          <div class="cs_footer_text cs_heading_color">Copyright &copy; <?php echo date('Y'); ?> Groupe KACOU - Tous droits réservés</div>
         </div>
       </div>
     </footer>

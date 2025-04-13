@@ -1,6 +1,6 @@
 
 <?php
-$pageTitle = 'GROUPE GISCARD KACOU';
+$pageTitle = 'GROUPE KACOU';
 $pageDescription = 'La sérénité vient de la sécurité';
 ob_start();
 ?>

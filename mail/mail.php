@@ -69,7 +69,7 @@ try {
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
     $mail->Port = 465;
 
-    $mail->setFrom($_ENV['MAIL_USERNAME'], 'Groupe Giscard Kacou');
+    $mail->setFrom($_ENV['MAIL_USERNAME'], 'Groupe KACOU');
     $mail->addAddress('levisble@gmail.com', 'Destinataire');
     $mail->addReplyTo($email, $name);
 

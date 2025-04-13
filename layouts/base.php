@@ -6,12 +6,12 @@
      <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Site officiel du Groupe Giscard Kacou">
+    <meta name="description" content="Site officiel du Groupe KACOU">
     <meta name="author" content="Levis Auteur">
     <!-- ✅ Titre dynamique -->
     <title>
     <?= htmlspecialchars($pageTitle) ?> <?= htmlspecialchars($pageDescription) ?>
-    <!-- Bienvenue sur le site officiel du Groupe Giscard Kacou -->
+    <!-- Bienvenue sur le site officiel du Groupe KACOU -->
     </title>
 
     <?php require __DIR__ . '/head.php'; ?>

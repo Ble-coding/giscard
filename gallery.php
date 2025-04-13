@@ -1,6 +1,6 @@
 
 <?php
-$pageTitle = 'GROUPE GISCARD KACOU';
+$pageTitle = 'GROUPE KACOU';
 $pageDescription = 'Découvrez notre galérie';
 ob_start();
 ?>

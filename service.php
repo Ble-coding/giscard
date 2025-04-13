@@ -1,6 +1,6 @@
 
 <?php
-$pageTitle = 'GROUPE GISCARD KACOU';
+$pageTitle = 'GROUPE KACOU';
 $pageDescription = 'Des prestations sur mesure pour assurer la protection, la visibilité et la performance de votre entreprise.';
 ob_start();
 ?>

@@ -1,5 +1,5 @@
 <?php
-$pageTitle = 'Erreur lors de l’envoi du mail- Groupe Giscard Kacou';
+$pageTitle = 'Erreur lors de l’envoi du mail- Groupe KACOU';
 $pageDescription = 'Une erreur est survenue lors de l’envoi de votre message. Veuillez réessayer.';
 
 ob_start();

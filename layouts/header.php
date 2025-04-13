@@ -9,7 +9,7 @@ $currentRoute = trim(parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH), '/');
         <div class="container">
           <div class="cs_main_header_in">
             <div class="cs_main_header_left">
-              <a class="cs_site_branding" href="/" aria-label="Groupe Giscard kacou">
+              <a class="cs_site_branding" href="/" aria-label="Groupe KACOU">
               <img src="/assets/img/logo_agrandi.png" alt="Logo">
               </a>
             </div>

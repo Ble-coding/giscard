@@ -1,5 +1,5 @@
 <?php
-$pageTitle = 'Mail envoyé avec succès - Groupe Giscard Kacou';
+$pageTitle = 'Mail envoyé avec succès - Groupe KACOU';
 $pageDescription = 'Votre message a été envoyé. Nous vous répondrons rapidement.';
 ob_start();
 ?>

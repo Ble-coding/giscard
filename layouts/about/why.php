@@ -56,7 +56,7 @@
             <div class="cs_card_content">
               <div class="cs_section_heading cs_style_1 cs_mb_51">
                 <p class="cs_fs_16 cs_semibold cs_mb_11">POURQUOI NOUS CHOISIR?</p>
-                <!-- <h2 class="cs_section_title cs_fs_50 mb-0 wow fadeInDown">Pourquoi choisir  <br> Groupe Giscard Kacou?</h2> -->
+                <!-- <h2 class="cs_section_title cs_fs_50 mb-0 wow fadeInDown">Pourquoi choisir  <br> Groupe KACOU?</h2> -->
               </div>
               <div class="cs_iconbox_wrapper">
                 <div class="cs_iconbox cs_style_4 cs_mb_23 wow fadeInLeft">

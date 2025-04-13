@@ -1,6 +1,6 @@
 
 <?php
-$pageTitle = 'GROUPE GISCARD KACOU';
+$pageTitle = 'GROUPE KACOU';
 $pageDescription = 'Bâtir un monde plus sûr, plus connecté et plus visible — grâce à la technologie, à la créativité et à la passion.';
 ob_start();
 ?>

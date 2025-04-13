@@ -1,6 +1,6 @@
 
 <?php
-$pageTitle = 'GROUPE GISCARD KACOU';
+$pageTitle = 'GROUPE KACOU';
 $pageDescription = 'Une solution humaine pour accompagner vos projets techniques, logistiques et de communication';
 ob_start();
 ?>

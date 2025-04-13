@@ -4,7 +4,7 @@
       <div class="cs_height_58 cs_height_lg_58"></div>
       <div class="container">
         <div class="text-center ">
-          <h2 class="cs_fs_50 cs_mb_15 wow fadeInDown">Contactez le Groupe Giscard Kacou</h2>
+          <h2 class="cs_fs_50 cs_mb_15 wow fadeInDown">Contactez le Groupe KACOU</h2>
           <p class="mb-0 wow fadeInUp"> Une question ? Besoin d’un devis ? Besoin d’un audit ? N’hésitez pas à nous contacter.<br>
                     Notre équipe se fera un plaisir de vous répondre rapidement.
             </p>
