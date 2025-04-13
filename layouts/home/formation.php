@@ -8,7 +8,7 @@
         <div class="cs_section_heading cs_style_1 cs_mb_40">
           <h2 class="cs_section_title cs_fs_50 cs_mb_19 wow fadeInDown">Un accompagnement humain</h2>
           <hr>
-          <p class="wow fadeInUp">Chez <strong>GK GROUPE</strong>, nous croyons que la technologie est au service des hommes. C’est pourquoi nous mettons un point d’honneur à :</p>
+          <p class="wow fadeInUp">Chez <strong>GROUPE KACOU</strong>, nous croyons que la technologie est au service des hommes. C’est pourquoi nous mettons un point d’honneur à :</p>
         </div>
         <div class="cs_iconbox_wrapper position-relative z-2">
           <!-- Avant installation -->
