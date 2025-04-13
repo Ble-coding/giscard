@@ -11,6 +11,7 @@ ob_start();
 <?php require __DIR__ . '/layouts/home/service.php'; ?>
 <?php require __DIR__ . '/layouts/home/formation.php'; ?>
 <?php require __DIR__ . '/layouts/home/temoignage.php'; ?>
+<?php require __DIR__ . '/layouts/home/faq.php'; ?>
 
 <?php
 $content = ob_get_clean(); // Capture et stocke le contenu

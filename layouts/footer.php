@@ -28,8 +28,8 @@
                 <h3 class="cs_footer_widget_title cs_fs_21 cs_normal cs_mb_21">Centre d'aide</h3>
                 <ul class="cs_footer_medu cs_mp_0">
                   <li><a href="/contact" aria-label="Contact page link">Contact</a></li>
+                  <li><a href="/#faq" aria-label="Faq link">Faq</a></li> 
                   <li><a href="#" aria-label="Help link">Politique de confidentialité</a></li>
-                  <!-- <li><a href="#" aria-label="Resources link">Resources</a></li> -->
                    <li><a href="/term-condition" aria-label="Terms & Condition link">Terms & Condition</a></li>
                 </ul>
               </div>
