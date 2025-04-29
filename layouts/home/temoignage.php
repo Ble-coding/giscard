@@ -155,7 +155,7 @@
                     <p class="mb-0">Responsable administrative, PME à Marcory</p>
                   </div>
                 </div>
-                <blockquote>Depuis l’installation de notre système de vidéosurveillance avec GK Groupe, nous avons une tranquillité d’esprit totale. Le suivi est sérieux, et ils nous ont même proposé un agent intérimaire formé pour le monitoring des écrans.</blockquote>
+                <blockquote>Depuis l’installation de notre système de vidéosurveillance avec Groupe Kacou, nous avons une tranquillité d’esprit totale. Le suivi est sérieux, et ils nous ont même proposé un agent intérimaire formé pour le monitoring des écrans.</blockquote>
                 <div class="cs_rating" data-rating="5">
                   <div class="cs_rating_percentage"></div>
                 </div>
@@ -174,7 +174,7 @@
                     <p class="mb-0">Responsable administrative, PME à Marcory</p>
                   </div>
                 </div>
-                <blockquote>Depuis l’installation de notre système de vidéosurveillance avec GK Groupe, nous avons une tranquillité d’esprit totale. Le suivi est sérieux, et ils nous ont même proposé un agent intérimaire formé pour le monitoring des écrans.</blockquote>
+                <blockquote>Depuis l’installation de notre système de vidéosurveillance avec Groupe Kacou, nous avons une tranquillité d’esprit totale. Le suivi est sérieux, et ils nous ont même proposé un agent intérimaire formé pour le monitoring des écrans.</blockquote>
                 <div class="cs_rating" data-rating="5">
                   <div class="cs_rating_percentage"></div>
                 </div>
@@ -212,7 +212,7 @@
                     <p class="mb-0">Proviseure, Collège Lumière de Bouaké</p>
                   </div>
                 </div>
-                <blockquote>Grâce à GK Groupe, notre établissement scolaire est désormais équipé d’un système d’alarme fiable et connecté. L’équipe locale a tout géré avec professionnalisme. En cas de besoin, un technicien est toujours disponible.</blockquote>
+                <blockquote>Grâce à Groupe Kacou, notre établissement scolaire est désormais équipé d’un système d’alarme fiable et connecté. L’équipe locale a tout géré avec professionnalisme. En cas de besoin, un technicien est toujours disponible.</blockquote>
                 <div class="cs_rating" data-rating="5">
                   <div class="cs_rating_percentage"></div>
                 </div>

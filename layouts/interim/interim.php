@@ -13,16 +13,40 @@
                 </form> -->
               </div>
               <div class="cs_sidebar_widget"> 
-                <h3 class="cs_widget_title cs_fs_29 cs_normal cs_mb_16">Catégories d’intérim</h3>
+                <h3 class="cs_widget_title cs_fs_29 cs_normal cs_mb_16">SECURITE ELECTRONIQUE</h3>
                 <ul class="cs_category_list cs_mp_0">
-                    <li><a href="#" aria-label="Post category link">Sécurité & Vidéosurveillance (4)</a></li>
-                    <li><a href="#" aria-label="Post category link">Techniciens Réseaux & Alarmes (3)</a></li>
-                    <li><a href="#" aria-label="Post category link">Maintenance Informatique (2)</a></li>
-                    <li><a href="#" aria-label="Post category link">Support & Hotline (3)</a></li>
-                    <li><a href="#" aria-label="Post category link">Communication Digitale (2)</a></li>
-                    <li><a href="#" aria-label="Post category link">Logistique & Livraison (4)</a></li>
+                    <li><a href="#" aria-label="Post category link">Interphone</a></li>
+                    <li><a href="#" aria-label="Post category link">Intrusion (alarme)</a></li>
+                    <li><a href="#" aria-label="Post category link">Incendie (alarme)</a></li>
+                    <li><a href="#" aria-label="Post category link">Vidéosurveillance </a></li>
+                    <li><a href="#" aria-label="Post category link">Control accès </a></li>
+                    <li><a href="#" aria-label="Post category link">Installation et maintenance </a></li>
+                    <li><a href="#" aria-label="Post category link">Appel malade </a></li>
                 </ul>
                 </div>
+                <div class="cs_sidebar_widget"> 
+    <h3 class="cs_widget_title cs_fs_29 cs_normal cs_mb_16">COMMUNICATION GRAPHIQUE</h3>
+    <ul class="cs_category_list cs_mp_0">
+        <li><a href="#" aria-label="Post category link">Édition</a></li>
+        <li><a href="#" aria-label="Post category link">Création publicitaire</a></li>
+        <li><a href="#" aria-label="Post category link">Production audiovisuelle</a></li>
+        <li><a href="#" aria-label="Post category link">Webmastering</a></li>
+        <li><a href="#" aria-label="Post category link">Événementiel</a></li>
+        <li><a href="#" aria-label="Post category link">Impression numérique</a></li>
+        <li><a href="#" aria-label="Post category link">Sérigraphie</a></li>
+    </ul>
+</div>
+
+<div class="cs_sidebar_widget"> 
+    <h3 class="cs_widget_title cs_fs_29 cs_normal cs_mb_16">SOLUTIONS INFORMATIQUES</h3>
+    <ul class="cs_category_list cs_mp_0">
+        <li><a href="#" aria-label="Post category link">Maintenance</a></li>
+        <li><a href="#" aria-label="Post category link">Réseaux informatiques</a></li>
+        <li><a href="#" aria-label="Post category link">Développement d’applications</a></li>
+        <li><a href="#" aria-label="Post category link">Vente de consommables</a></li>
+    </ul>
+</div>
+
 
         
             </div>
@@ -31,9 +55,9 @@
           <div class="col-lg-8 order-lg-1 wow fadeInLeft">
   <div class="cs_post_details">
 
-    <h1>Le service d’intérim GK : des talents agiles pour vos projets</h1>
+    <h1>Le service d’intérim Groupe Kacou: des talents agiles pour vos projets</h1>
     <img src="assets/img/interim_profil.png" alt="Profils intérimaires GK">
-    <p>Le Groupe GK enrichit son offre en proposant un service d’intérim stratégique et humain. Conçu pour répondre aux besoins immédiats de vos projets, notre dispositif vous permet de bénéficier rapidement de collaborateurs qualifiés, formés à nos standards et opérationnels dès le premier jour.</p>
+    <p>Le Groupe Kacou enrichit son offre en proposant un service d’intérim stratégique et humain. Conçu pour répondre aux besoins immédiats de vos projets, notre dispositif vous permet de bénéficier rapidement de collaborateurs qualifiés, formés à nos standards et opérationnels dès le premier jour.</p>
 
     <article>
       <h2>Pourquoi choisir notre intérim ?</h2>
@@ -203,7 +227,7 @@
                       </defs>
                     </svg>
                   </span>
-                  <span class="cs_fs_21 cs_heading_color"><strong>Suivi dédié</strong> : un superviseur GK dédié à chaque mission</span>
+                  <span class="cs_fs_21 cs_heading_color"><strong>Suivi dédié</strong> : un superviseur Groupe Kacou dédié à chaque mission</span>
                 </li>
                  <li class="interim">
                   <span class="cs_list_icon cs_purple_color">
@@ -224,7 +248,7 @@
       </ul>
     </article>
 
-    <img src="assets/img/interim.png" alt="Illustration Intérim Groupe GK">
+    <img src="assets/img/interim.png" alt="Illustration Intérim Groupe Kacou">
 
     <article>
       <h2>Un exemple concret ?</h2>

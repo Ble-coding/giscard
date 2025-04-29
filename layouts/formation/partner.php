@@ -14,7 +14,7 @@
             <div class="cs_card_content">
               <div class="cs_section_heading cs_style_1 cs_mb_30">
                 <h2 class="cs_section_title cs_fs_50 cs_mb_27 wow fadeInDown">Un partenariat fondé sur la confiance et la proximité</h2>
-                <p class="cs_section_text cs_fs_21 mb-0"> Chez GK GROUPE, chaque client est un partenaire. Nous bâtissons des relations durables en alliant présence locale, expertise technique et accompagnement sur mesure.
+                <p class="cs_section_text cs_fs_21 mb-0"> Chez Groupe Kacou, chaque client est un partenaire. Nous bâtissons des relations durables en alliant présence locale, expertise technique et accompagnement sur mesure.
                 </p>
               </div>
               <ul class="cs_list cs_style_1 cs_mp_0 wow fadeInLeft">

@@ -1,5 +1,5 @@
 
-    <!-- Start Formation GK GROUPE Section -->
+    <!-- Start Formation Groupe Kacou Section -->
 <section>
   <div class="cs_height_140 cs_height_lg_80"></div>
   <div class="container">
@@ -69,7 +69,7 @@
       <!-- Illustration -->
       <div class="col-xl-5 col-lg-6">
         <div class="cs_card_thumbnail cs_center position-relative wow fadeInLeft">
-          <img src="assets/img/formation.png" alt="Formation GK GROUPE">
+          <img src="assets/img/formation.png" alt="Formation Groupe Kacou">
           <div class="cs_thumbnail_before cs_radius_100 position-absolute"></div>
         </div>
 
@@ -79,4 +79,4 @@
   </div>
   <div class="cs_height_140 cs_height_lg_80"></div>
 </section>
-<!-- End Formation GK GROUPE Section -->
+<!-- End Formation Groupe Kacou Section -->

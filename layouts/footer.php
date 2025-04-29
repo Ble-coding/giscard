@@ -38,10 +38,10 @@
               <div class="cs_footer_widget cs_contact_widget">
                 <h3 class="cs_footer_widget_title cs_fs_21 cs_normal cs_mb_21">Info Contact</h3>
                 <ul class="cs_footer_medu cs_mp_0">
-                  <li> <strong>France</strong>: KACOU Giscard - 4 rue Marcel Cerdan, 16800 Soyaux </li>
+                  <li> <strong>France</strong>: 7 rue Hélène et Désiré Legoff, 78711 Mantes-la-Ville </li>
                   <li><a href="tel:33652937797" aria-label="Phone call link">+33 6 52 93 77 97</a></li>
-                  <li><strong>Côte d’Ivoire</strong> - Contacts Serge Demel</li>
-                  <li><a href="tel:22502028429" aria-label="Phone call link">+225 01 02 02 84 29 </a></li>
+                  <li><strong>Côte d’Ivoire</strong> - Giscard Kacou</li>
+                  <li><a href="tel:225079947580" aria-label="Phone call link">+225 07 99 44 75809 </a></li>
                   <li><a href="mailTo:sergedemel@hotmail.fr" aria-label="Email send link">sergedemel@hotmail.fr</a></li>
                   <!-- <li>10 am - 12 pm, Everyday</li> -->
                 </ul>
